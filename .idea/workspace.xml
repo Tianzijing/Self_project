@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87c8fb65-6dcc-49c9-85d2-a6ee40e7f600" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T3_Test_post_product_reviews_test_post_product_reviews.coverage" NAME="Unittests for T3.Test_post_product_reviews.test_post_product_reviews Coverage Results" MODIFIED="1534129703880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T4_Account_recharge_Test_NAME_test_NAME.coverage" NAME="Unittests for T4_Account_recharge.Test_NAME.test_NAME Coverage Results" MODIFIED="1533195397134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/$test_crawler.coverage" NAME="test_crawler Coverage Results" MODIFIED="1536071642715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/ECSHOP$Unittests_for_T2_Post_product_reviews_Test_post_product_reviews_test_post_product_reviews.coverage" NAME="Unittests for T2_Post_product_reviews.Test_post_product_reviews.test_post_product_reviews Coverage Results" MODIFIED="1534149501271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/ECSHOP$Unittests_in_Y_Type_add_py.coverage" NAME="Unittests in Y_Type_add.py Coverage Results" MODIFIED="1534151625269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/ECSHOP$Unittests_for_T1_Smoke_test_forward_order_Test_smoke_test_forward_order.coverage" NAME="Unittests for T1_Smoke_test_forward_order.Test_smoke_test_forward_order Coverage Results" MODIFIED="1534143945686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/ECSHOP$Unittests_for_T4_Smoke_test_reverse_order_Test_smoke_test_forward_order_test_smoke_test_forward_order.coverage" NAME="Unittests for T4_Smoke_test_reverse_order.Test_smoke_test_forward_order.test_smoke_test_forward_order Coverage Results" MODIFIED="1534141714977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_in_T1_Lending_py.coverage" NAME="Unittests in T1_Lending.py Coverage Results" MODIFIED="1533005406500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T4_Account_recharge_Test_Account_recharge_test_Account_recharge.coverage" NAME="Unittests for T4_Account_recharge.Test_Account_recharge.test_Account_recharge Coverage Results" MODIFIED="1533452922554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_in_T5_Mortgage_mark_py.coverage" NAME="Unittests in T5_Mortgage_mark.py Coverage Results" MODIFIED="1533290969440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T7_Calculator_Test_Calculator_test_Calculator.coverage" NAME="Unittests for T7_Calculator.Test_Calculator.test_Calculator Coverage Results" MODIFIED="1533451264797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_Template_Test_NAME.coverage" NAME="Unittests for Template.Test_NAME Coverage Results" MODIFIED="1533902741452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$User_center_element.coverage" NAME="User_center_element Coverage Results" MODIFIED="1534051215098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Built_in_library" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T3_Legalize_phone_Test_NAME_test_NAME.coverage" NAME="Unittests for T3_Legalize_phone.Test_NAME.test_NAME Coverage Results" MODIFIED="1533127660629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/$test_openpyxl.coverage" NAME="test_openpyxl Coverage Results" MODIFIED="1535732834688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T5_Mortgage_mark_Test_Mortgage_mark_test_Mortgage_mark.coverage" NAME="Unittests for T5_Mortgage_mark.Test_Mortgage_mark.test_Mortgage_mark Coverage Results" MODIFIED="1533373794469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T1_Lending_Test_lending_test_lending.coverage" NAME="Unittests for T1_Lending.Test_lending.test_lending Coverage Results" MODIFIED="1533177615062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T2_User_Management_Test_User_Management_test_User_Management.coverage" NAME="Unittests for T2_User_Management.Test_User_Management.test_User_Management Coverage Results" MODIFIED="1533040261477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T5_Mortgage_mark_Test_Mortgage_mark.coverage" NAME="Unittests for T5_Mortgage_mark.Test_Mortgage_mark Coverage Results" MODIFIED="1533369787707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/ECSHOP$Unittests_for_T4_Smoke_test_reverse_order_Test_smoke_test_forward_order.coverage" NAME="Unittests for T4_Smoke_test_reverse_order.Test_smoke_test_forward_order Coverage Results" MODIFIED="1534141497895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T2_Test_NAME_test_NAME.coverage" NAME="Unittests for T2.Test_NAME.test_NAME Coverage Results" MODIFIED="1534062535125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T6_Modify_the_login_password_Test_Modify_the_login_password_test_Modify_the_login_password.coverage" NAME="Unittests for T6_Modify_the_login_password.Test_Modify_the_login_password.test_Modify_the_login_password Coverage Results" MODIFIED="1533364073452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/ECSHOP$Unittests_for_Y_Type_add_Test_Type_test_type_add.coverage" NAME="Unittests for Y_Type_add.Test_Type.test_type_add Coverage Results" MODIFIED="1534151718617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T4_Account_recharge_Test_Account_recharge.coverage" NAME="Unittests for T4_Account_recharge.Test_Account_recharge Coverage Results" MODIFIED="1533203352756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_in_Template_py.coverage" NAME="Unittests in Template.py Coverage Results" MODIFIED="1533902796352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T2_Post_product_reviews_Test_post_product_reviews_test_post_product_reviews.coverage" NAME="Unittests for T2_Post_product_reviews.Test_post_product_reviews.test_post_product_reviews Coverage Results" MODIFIED="1534129330432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_in_test_log_py.coverage" NAME="Unittests in test_log.py Coverage Results" MODIFIED="1535532503963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Settings.coverage" NAME="Settings Coverage Results" MODIFIED="1533290359712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Built_in_library" />
+    <SUITE FILE_PATH="coverage/$test_requests.coverage" NAME="test_requests Coverage Results" MODIFIED="1535780330996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$T1_Lending.coverage" NAME="T1_Lending Coverage Results" MODIFIED="1533008004488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T2_User_Management_Test_User_Management.coverage" NAME="Unittests for T2_User_Management.Test_User_Management Coverage Results" MODIFIED="1533034777031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/ECSHOP$Unittests_for_Y_Atrribute_add_Test_Atrribute_test_attribute_add.coverage" NAME="Unittests for Y_Atrribute_add.Test_Atrribute.test_attribute_add Coverage Results" MODIFIED="1534147872700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T1_Test_NAME_test_NAME.coverage" NAME="Unittests for T1.Test_NAME.test_NAME Coverage Results" MODIFIED="1534053617756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T7_Calculator_Test_Calculator.coverage" NAME="Unittests for T7_Calculator.Test_Calculator Coverage Results" MODIFIED="1533451059857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_test_log_test_log_test_log.coverage" NAME="Unittests for test_log.test_log.test_log Coverage Results" MODIFIED="1535532999986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Main_test_run.coverage" NAME="Main_test_run Coverage Results" MODIFIED="1534064426632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ECSHOP$Unittests_in_Y_Atrribute_add_py.coverage" NAME="Unittests in Y_Atrribute_add.py Coverage Results" MODIFIED="1534147954244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T6_Modify_the_login_password_Test_Modify_the_login_password.coverage" NAME="Unittests for T6_Modify_the_login_password.Test_Modify_the_login_password Coverage Results" MODIFIED="1533360642614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/ECSHOP$Main_test_run.coverage" NAME="Main_test_run Coverage Results" MODIFIED="1534154067526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Class89$Complex_function.coverage" NAME="Complex_function Coverage Results" MODIFIED="1533441719043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Built_in_library" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_in_T1_py.coverage" NAME="Unittests in T1.py Coverage Results" MODIFIED="1533951509165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T2_Post_product_reviews_Test_post_product_reviews.coverage" NAME="Unittests for T2_Post_product_reviews.Test_post_product_reviews Coverage Results" MODIFIED="1534128826836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T1_Test_NAME.coverage" NAME="Unittests for T1.Test_NAME Coverage Results" MODIFIED="1534053819309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/ECSHOP$Unittests_for_Y_Atrribute_add_Test_Atrribute.coverage" NAME="Unittests for Y_Atrribute_add.Test_Atrribute Coverage Results" MODIFIED="1534148455475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T2_User_Management_Test_NAME_test_NAME.coverage" NAME="Unittests for T2_User_Management.Test_NAME.test_NAME Coverage Results" MODIFIED="1533024996253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T2_Test_NAME.coverage" NAME="Unittests for T2.Test_NAME Coverage Results" MODIFIED="1534062260491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_in_T3_py.coverage" NAME="Unittests in T3.py Coverage Results" MODIFIED="1534129855313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T1_Lending_Test_lending.coverage" NAME="Unittests for T1_Lending.Test_lending Coverage Results" MODIFIED="1533018420429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/ECSHOP$Unittests_in_Y_Goods_add_py.coverage" NAME="Unittests in Y_Goods_add.py Coverage Results" MODIFIED="1534151563455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Single_function.coverage" NAME="Single_function Coverage Results" MODIFIED="1533360638895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Built_in_library" />
+    <SUITE FILE_PATH="coverage/ECSHOP$Unittests_for_Y_Type_add_Test_Type.coverage" NAME="Unittests for Y_Type_add.Test_Type Coverage Results" MODIFIED="1534151584654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_test_log_test_log.coverage" NAME="Unittests for test_log.test_log Coverage Results" MODIFIED="1535532843070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+    <SUITE FILE_PATH="coverage/Class89$Unittests_for_T3_Legalize_phone_Test_Legalize_phone_test_Legalize_phone.coverage" NAME="Unittests for T3_Legalize_phone.Test_Legalize_phone.test_Legalize_phone Coverage Results" MODIFIED="1533177107726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main_test" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2121264816">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.68" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="2" />
+          <entry key="py" value="69" />
+          <entry key="pyi" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="Python" value="69" />
+          <entry key="PythonStub" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="17" />
+          <entry key="dummy" value="16" />
+          <entry key="py" value="8582" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="Python" value="8599" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+    <session id="1457743273">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+    <session id="-323705948">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="3" />
+          <entry key="py" value="82" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="3" />
+          <entry key="Python" value="82" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="42" />
+          <entry key="py" value="7620" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="42" />
+          <entry key="Python" value="7620" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+    <session id="1859054004">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="bak" value="1" />
+          <entry key="html" value="3" />
+          <entry key="log" value="2" />
+          <entry key="py" value="42" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="3" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="42" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="29" />
+          <entry key="dummy" value="1" />
+          <entry key="py" value="823" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="852" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+    <session id="-1931048535">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="871" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="871" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main_test/Template.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/External_library/decorator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="891">
+              <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Built_in_library/Settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Main_test/test_openpyxl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main_test/test_requests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1539">
+              <caret line="64" column="28" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main_test/test_crawler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-710">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/External_library/logs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>icon</find>
+      <find>goodsItem</find>
+      <find>order_sn</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/External_library/mysql.py" />
+        <option value="$PROJECT_DIR$/External_library/approve.py" />
+        <option value="$PROJECT_DIR$/External_library/Chrome.py" />
+        <option value="$PROJECT_DIR$/Main_test/T2_User_Management.py" />
+        <option value="$PROJECT_DIR$/Main_test/T-Legalize-phone.py" />
+        <option value="$PROJECT_DIR$/Main_test/T3-Legalize-phone.py" />
+        <option value="$PROJECT_DIR$/Main_test/T1_Lending.py" />
+        <option value="$PROJECT_DIR$/Main_test/T6_Modify_the_login_password.py" />
+        <option value="$PROJECT_DIR$/Main_test/T3_Legalize_phone.py" />
+        <option value="$PROJECT_DIR$/Main_test/T5_Mortgage_mark.py" />
+        <option value="$PROJECT_DIR$/Main_test/T7_Calculator.py" />
+        <option value="$PROJECT_DIR$/Main_test/T4_Account_recharge.py" />
+        <option value="$PROJECT_DIR$/External_library/mysql_S_U.py" />
+        <option value="$PROJECT_DIR$/Built_in_library/Single_function.py" />
+        <option value="$PROJECT_DIR$/Built_in_library/Complex_function.py" />
+        <option value="$PROJECT_DIR$/Built_in_library/Shopping_cart_element.py" />
+        <option value="$PROJECT_DIR$/Built_in_library/Shipping_address_element.py" />
+        <option value="$PROJECT_DIR$/Built_in_library/Submit_order_element.py" />
+        <option value="$PROJECT_DIR$/Main_test/Template.py" />
+        <option value="$PROJECT_DIR$/Built_in_library/Product_details.py" />
+        <option value="$PROJECT_DIR$/Built_in_library/__init__.py" />
+        <option value="$PROJECT_DIR$/Main_test/T2.py" />
+        <option value="$PROJECT_DIR$/Main_test/T1.py" />
+        <option value="$PROJECT_DIR$/Built_in_library/Product_details_element.py" />
+        <option value="$PROJECT_DIR$/Main_test/T2_Post_product_reviews.py" />
+        <option value="$PROJECT_DIR$/Built_in_library/Home_element.py" />
+        <option value="$PROJECT_DIR$/Built_in_library/Log_in_element.py" />
+        <option value="$PROJECT_DIR$/Main_test/T3.py" />
+        <option value="$PROJECT_DIR$/Main_test/T3_Fail_product_reviews.py" />
+        <option value="$PROJECT_DIR$/Built_in_library/User_center_element.py" />
+        <option value="$PROJECT_DIR$/Main_test/T4_Smoke_test_reverse_order.py" />
+        <option value="$PROJECT_DIR$/Built_in_library/Settings.py" />
+        <option value="$PROJECT_DIR$/Built_in_library/Backstage_element.py" />
+        <option value="$PROJECT_DIR$/Main_test/T1_Smoke_test_forward_order.py" />
+        <option value="$PROJECT_DIR$/Main_test_run.py" />
+        <option value="$PROJECT_DIR$/Main_test/Y_Atrribute_add.py" />
+        <option value="$PROJECT_DIR$/External_library/selenium_driver.py" />
+        <option value="$PROJECT_DIR$/Main_test/Y_Type_add.py" />
+        <option value="$PROJECT_DIR$/Main_test/Y_Goods_add.py" />
+        <option value="$PROJECT_DIR$/External_library/logs.py" />
+        <option value="$PROJECT_DIR$/External_library/decorator.py" />
+        <option value="$PROJECT_DIR$/Main_test/test_log.py" />
+        <option value="$PROJECT_DIR$/Main_test/__init__.py" />
+        <option value="$PROJECT_DIR$/Main_test/test_openpyxl.py" />
+        <option value="$PROJECT_DIR$/Main_test/test_requests.py" />
+        <option value="$PROJECT_DIR$/Main_test/test_crawler.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="862" />
+    <option name="y" value="43" />
+    <option name="width" value="1024" />
+    <option name="height" value="829" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="自动化框架" type="b2602c69:ProjectViewProjectNode" />
+              <item name="自动化框架" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="自动化框架" type="b2602c69:ProjectViewProjectNode" />
+              <item name="自动化框架" type="462c0819:PsiDirectoryNode" />
+              <item name="Built_in_library" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="自动化框架" type="b2602c69:ProjectViewProjectNode" />
+              <item name="自动化框架" type="462c0819:PsiDirectoryNode" />
+              <item name="External_library" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="自动化框架" type="b2602c69:ProjectViewProjectNode" />
+              <item name="自动化框架" type="462c0819:PsiDirectoryNode" />
+              <item name="Main_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\Class89\Main_test" />
+      <recent name="D:\PycharmProjects\Class89\Main_test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\Class89\Built_in_library" />
+      <recent name="C:\Users\Administrator.USER-20170711LE\Desktop\Class89 (1)\External_library" />
+      <recent name="D:\PycharmProjects\Class89\Images\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test_crawler">
+    <configuration name="test_crawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Class89" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Main_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main_test/test_crawler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_openpyxl" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Class89" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Main_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main_test/test_openpyxl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_requests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Class89" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Main_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main_test/test_requests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_log.test_log" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Class89" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Main_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_log.test_log&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_log.test_log.test_log" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Class89" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Main_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_log.test_log.test_log&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for test_log.test_log" />
+      <item itemvalue="Python tests.Unittests for test_log.test_log.test_log" />
+      <item itemvalue="Python.test_openpyxl" />
+      <item itemvalue="Python.test_requests" />
+      <item itemvalue="Python.test_crawler" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_crawler" />
+        <item itemvalue="Python.test_requests" />
+        <item itemvalue="Python.test_openpyxl" />
+        <item itemvalue="Python tests.Unittests for test_log.test_log.test_log" />
+        <item itemvalue="Python tests.Unittests for test_log.test_log" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87c8fb65-6dcc-49c9-85d2-a6ee40e7f600" name="Default Changelist" comment="" />
+      <created>1533004779124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533004779124</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_Y_Type_add_Test_Type - 2018.08.13 at 17h 13m 17s.xml">
+      <configuration name="Unittests for Y_Type_add.Test_Type" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Y_Type_add_py - 2018.08.13 at 17h 13m 58s.xml">
+      <configuration name="Unittests in Y_Type_add.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Y_Type_add_Test_Type_test_type_add - 2018.08.13 at 17h 15m 30s.xml">
+      <configuration name="Unittests for Y_Type_add.Test_Type.test_type_add" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_log_py - 2018.08.29 at 16h 11m 16s.xml">
+      <configuration name="Unittests in test_log.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_log_py - 2018.08.29 at 16h 21m 24s.xml">
+      <configuration name="Unittests in test_log.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_log_py - 2018.08.29 at 16h 30m 04s.xml">
+      <configuration name="Unittests in test_log.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_log_py - 2018.08.29 at 16h 48m 28s.xml">
+      <configuration name="Unittests in test_log.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_log_test_log - 2018.08.29 at 16h 51m 37s.xml">
+      <configuration name="Unittests for test_log.test_log" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_log_test_log - 2018.08.29 at 16h 54m 07s.xml">
+      <configuration name="Unittests for test_log.test_log" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_log_test_log_test_log - 2018.08.29 at 16h 56m 43s.xml">
+      <configuration name="Unittests for test_log.test_log.test_log" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1932" height="903" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11111111" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.103896104" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3987013" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50213677" side_tool="true" weight="0.12987013" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.11292962" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32959402" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24432677" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.10310966" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.48772505" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.11292962" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Built_in_library/read_config.py" />
+    <entry file="file://$PROJECT_DIR$/External_library/Chrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/selenium-3.7.0-py3.5.egg/selenium/webdriver/remote/switch_to.py" />
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/selenium-3.7.0-py3.5.egg/selenium/webdriver/remote/errorhandler.py" />
+    <entry file="file://$PROJECT_DIR$/Built_in_library/Complex_function.py" />
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/selenium-3.7.0-py3.5.egg/selenium/webdriver/remote/webelement.py" />
+    <entry file="file://$PROJECT_DIR$/Report/2018-08-12_16_36_31_result.html" />
+    <entry file="file://$PROJECT_DIR$/Report/2018-08-12_17_00_27_result.html" />
+    <entry file="file://$PROJECT_DIR$/Main_test/YXB_Atrribute_add.py" />
+    <entry file="file://$PROJECT_DIR$/Main_test/YXB_Goods_add.py" />
+    <entry file="file://$PROJECT_DIR$/Main_test/YXB_Type_add.py" />
+    <entry file="file://$PROJECT_DIR$/Main_test/G_add_pinpai.py" />
+    <entry file="file://$PROJECT_DIR$/Main_test/G_add_fenlei.py" />
+    <entry file="file://$PROJECT_DIR$/Built_in_library/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/unittest/case.py" />
+    <entry file="file://$PROJECT_DIR$/Report/2018-08-13_11_58_28_result.html" />
+    <entry file="file://$PROJECT_DIR$/Main_test/T3_Fail_product_reviews.py" />
+    <entry file="file://$PROJECT_DIR$/Main_test/T4_Smoke_test_reverse_order.py" />
+    <entry file="file://$PROJECT_DIR$/Main_test/G_add_fenlei.py.bak" />
+    <entry file="file://C:/Program Files/Python35/Lib/site-packages/selenium-3.7.0-py3.5.egg/selenium/webdriver/remote/webdriver.py" />
+    <entry file="file://$PROJECT_DIR$/Built_in_library/Product_details_element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Built_in_library/User_center_element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="90" column="8" lean-forward="true" selection-start-line="90" selection-start-column="8" selection-end-line="90" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Report/2018-08-13_15_58_09_result.html" />
+    <entry file="file://$PROJECT_DIR$/Built_in_library/Backstage_element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="172" column="33" lean-forward="true" selection-start-line="172" selection-start-column="33" selection-end-line="172" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_test/T1_Smoke_test_forward_order.py" />
+    <entry file="file://$PROJECT_DIR$/Main_test/T2_Post_product_reviews.py" />
+    <entry file="file://$PROJECT_DIR$/Built_in_library/Home_element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1955">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Built_in_library/Shopping_cart_element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_test/Y_Atrribute_add.py" />
+    <entry file="file://$PROJECT_DIR$/geckodriver.log" />
+    <entry file="file://$PROJECT_DIR$/Main_test/Y_Type_add.py" />
+    <entry file="file://$PROJECT_DIR$/Main_test_run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Report/2018-08-13_17_54_32_result.html" />
+    <entry file="file://$PROJECT_DIR$/Main_test/Y_Goods_add.py" />
+    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/selenium/webdriver/chrome/webdriver.py" />
+    <entry file="file://$PROJECT_DIR$/Main_test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_test/test_log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Built_in_library/Log_in_element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Built_in_library/Submit_order_element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/External_library/selenium_driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="105" column="53" selection-start-line="105" selection-start-column="53" selection-end-line="105" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python35/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="318" selection-start-line="318" selection-end-line="318" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Z:/Class89/venv/Lib/site-packages/requests/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="723" column="8" selection-start-line="723" selection-start-column="8" selection-end-line="723" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python35/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="197" selection-start-line="197" selection-end-line="197" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-640992966/nt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="274" lean-forward="true" selection-start-line="274" selection-end-line="274" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_test/Template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/External_library/decorator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Built_in_library/Settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_test/test_requests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="64" column="28" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_test/test_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-710">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/External_library/logs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main_test/test_openpyxl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

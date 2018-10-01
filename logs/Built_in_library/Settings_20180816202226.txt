@@ -1,0 +1,25 @@
+  ☆  test_User_Management 方法第1次开始执行~~~
+|======================================================
+|   {'email': '1534422151680@123.com', 'passwd': ['password', '123456'], 'name': ['username', 'AdaVia680']}
+|======================================================
+  ☆  test_User_Management 执行过程中出现了其他异常，具体信息为：
+Traceback (most recent call last):
+  File "D:\PycharmProjects\Class89\External_library\decorator.py", line 15, in do_func
+    func(*arg)
+  File "D:\PycharmProjects\Class89\Main_test\T2_User_Management.py", line 40, in test_User_Management
+    user_name = l[0].text
+IndexError: list index out of range
+
+  ☆  test_User_Management 方法第2次开始执行~~~
+|======================================================
+|   {'email': '1534422166339@123.com', 'passwd': ['password', '123456'], 'name': ['username', 'KlayDar339']}
+|======================================================
+  ☆  test_User_Management 执行过程中出现了其他异常，具体信息为：
+Traceback (most recent call last):
+  File "D:\PycharmProjects\Class89\External_library\decorator.py", line 15, in do_func
+    func(*arg)
+  File "D:\PycharmProjects\Class89\Main_test\T2_User_Management.py", line 40, in test_User_Management
+    user_name = l[0].text
+IndexError: list index out of range
+
+  ☆  test_User_Management 方法执行结束~~~
