@@ -23,15 +23,13 @@ def log_decorator(log_path):
                     log(log_path, "E\t{}{} 执行过程中出现了断言异常，具体信息为：\n\t{}".format(
                         "  ☆  ", func.__name__, str(e)))
                     i += 1
-                    if i == n:
-                        break
                 except:
                     log(log_path, "F\t{}{} 执行过程中出现了其他异常，具体信息为：\n\t{}".format(
                         "  ☆  ", func.__name__, traceback.format_exc()))
                     i += 1
-                    if i == n:
-                        break
-                    # lg.log("出现非断言异常，即将进行一次重试！速度将会根据配置文件放慢执行！！！！")
+                if i == n:
+                    break
+                # lg.log("出现非断言异常，即将进行一次重试！速度将会根据配置文件放慢执行！！！！")
             log(log_path, "D\t{}{} 方法执行结束~~~".format("  ☆  ", func.__name__))
             now = datetime.datetime.now()
             log(log_path, "B\t结束时间：{}\t{}\n".format(
